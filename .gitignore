@@ -1,0 +1,8 @@
+#.gitignore
+
+node_modules/
+**/.DS_Store
+.firebaserc
+/app/src/firebaseConfig.tsx
+/js/
+/public/
