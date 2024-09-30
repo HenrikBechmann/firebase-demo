@@ -1,8 +1,9 @@
 #.gitignore
 
 node_modules/
+app_copy
 **/.DS_Store
 .firebaserc
-/app/src/firebaseConfig.tsx
+/src/firebaseConfig.tsx
 /js/
 /public/
