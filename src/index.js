@@ -1,4 +1,4 @@
-// index.tsx
+// index.js
 
 import { initializeApp } from "firebase/app";
 import { 
@@ -17,7 +17,7 @@ const auth = getAuth(app);
 const provider = new GoogleAuthProvider();
 
 provider.setCustomParameters({
-    prompt: 'select_account',
+    prompt: 'select_account'
 });
 
 (function () {
