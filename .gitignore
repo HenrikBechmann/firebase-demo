@@ -4,6 +4,7 @@ node_modules/
 app_copy
 **/.DS_Store
 .firebaserc
+.firebase
 /src/firebaseConfig.js
 /js/
 /public/
